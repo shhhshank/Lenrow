@@ -1,0 +1,15 @@
+for lender : 
+1) product name
+2) price
+3) duration ( product lending time )
+4) max image 3
+5) discription 
+6) category
+7) product quality ( rating for product)
+8) negotiation ( true or false )
+for buyer :
+1) category
+2) price range
+3) duration (prodct lending time)
+4) 
+
