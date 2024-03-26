@@ -13,6 +13,6 @@ const interestSchema = new Schema({
     }
 });
 
-const Intrested = mongoose.model('Intrested', instrestSchema);
+const Intrested = mongoose.model('Intrested', interestSchema);
 
 module.exports = Intrested;
